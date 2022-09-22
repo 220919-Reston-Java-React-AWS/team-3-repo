@@ -1,0 +1,70 @@
+Brandin Randolph
+
+What did they do yesterday?
+	-Reviewed notes
+	-Reviewed lecture video
+	-worked on menu board for project 1
+What will they do today?
+	- Review new trello board
+	- Review todays lecture
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	-Progress on menu board
+Are they running into any challenges/issues?
+	- No challenges so far
+
+Robel Fessehai
+
+What did they do yesterday?
+	-  coding challenge
+	- reviewed notes
+	- worked on main menu feature
+What will they do today?
+	- review trello board
+	- review notes
+	- attempt autehentication requirments 
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	-  worked on main menu
+	- work on authentication
+Are they running into any challenges/issues?
+	-no challenges so far
+
+Louis Comeaux
+
+What did they do yesterday?
+	- reviewed design cases
+	- how to link classes 
+	- worked on main menu
+What will they do today?
+	- reiview new requirments for trello board  
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	-  main menu board
+Are they running into any challenges/issues?
+	- no problems currently
+
+
+Josiah Schmidt
+
+What did they do yesterday?
+	- reviewed day one notes
+	- worked on git bash code
+What will they do today?
+	- review note
+	- look at new trello board
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- pulled bach-tran-project-1
+	- wrote some additional code for the main menu board
+Are they running into any challenges/issues?
+	- scanner problems
+
+
+Jaden Sierra
+
+What did they do yesterday?
+	- worked on completing the menu terminal
+What will they do today?
+	- review new trello board
+	- review yesterdays lesson
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- menu system is finished
+Are they running into any challenges/issues?
+	- scanner issues

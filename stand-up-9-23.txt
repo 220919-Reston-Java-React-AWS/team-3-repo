@@ -1,0 +1,74 @@
+Brandin Randolph
+
+What did they do yesterday?
+	-Reviewed notes, day 4
+	-Reviewed lecture video Day 3
+	-Review new trello board
+What will they do today?
+	- check for updates on new trello board
+	- Practice coding the topics covered this week.
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	-No progress from yesterday
+Are they running into any challenges/issues?
+	- No challenges so far
+
+Robel Fessehai
+
+What did they do yesterday?
+	-  Phase 1 of project
+	- reviewed notes
+	- worked on main menu feature
+What will they do today?
+	- review Project 1 updates, 
+	- review notes
+	- attempt autehentication requirments 
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	-  worked on login and registration feature
+	- work on authentication
+Are they running into any challenges/issues?
+	-no challenges so far
+
+Louis Comeaux
+
+What did they do yesterday?
+	- reviewed design cases
+	- how to link classes 
+	- worked on main menu
+What will they do today?
+	- reiview new requirments for trello board  
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	-  main menu board
+Are they running into any challenges/issues?
+	- no problems currently
+
+
+Josiah Schmidt
+
+What did they do yesterday?
+	- reviewed day one notes
+	- worked on Coding challenges
+What will they do today?
+	- review note
+	- look at lecture videos
+	-miro board
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- pulled bach-tran-project-1
+	- wrote some additional code for the main menu board
+	-Change up the Menu board on project 1
+Are they running into any challenges/issues?
+	- scanner problems
+
+
+Jaden Sierra
+
+What did they do yesterday?
+	- worked on completing the menu terminal
+	-reviewed material, coding challenge
+What will they do today?
+	- review new trello board, looked at the new design.
+	- review yesterdays lesson
+	-review concepts
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- menu system is finished
+Are they running into any challenges/issues?
+	- scanner issues

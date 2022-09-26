@@ -1,0 +1,48 @@
+Brandin Randolph
+
+What did they do yesterday?
+	- Study notes for week 1 (Days 4/5)
+What will they do today?
+	- Review for Quizzes
+	- Start Project 1
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- Not yet
+Are they running into any challenges/issues?
+	- No
+
+Robel Fessehai
+
+What did they do yesterday?
+	- Review for QC and study week 1 concepts
+	- Went over last 2 hours of lecture to prepare on Postman Maven Junit Javalin
+What will they do today?
+	- Review for Quiz and start coding on Project
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	-  not yet
+Are they running into any challenges/issues?
+	- not yet
+
+
+Josiah Schmidt
+
+What did they do yesterday?
+	- Reviewed Lecture videos and study
+What will they do today?
+	- Start Project 1 
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- No study for QC and Quiz
+Are they running into any challenges/issues?
+	- Nope
+
+
+Jaden Sierra
+
+What did they do yesterday?
+	- Made Flashcards on Quizlet and reviewed week 1 material
+What will they do today?
+	- Go over fuzzy week 1 concepts 
+	- Go over maven junit and javalin
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- Not yet
+Are they running into any challenges/issues?
+	- Not yet

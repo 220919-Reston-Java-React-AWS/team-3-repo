@@ -1,0 +1,50 @@
+Brandin Randolph
+
+What did they do yesterday?
+	-reviewed friday notes
+What will they do today?
+	- go over SQL
+	-project one progress
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- no updates yet
+Are they running into any challenges/issues?
+	- no challenges so far
+
+Robel Fessehai
+
+What did they do yesterday?
+	-  reviewed coding challenges
+	-went over notes
+	-went over maven
+What will they do today?
+	- get started working on project login
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	-  no updates
+Are they running into any challenges/issues?
+	- no challenges so far
+
+
+Josiah Schmidt
+
+What did they do yesterday?
+	- went over friday lecure
+	- studied coding 
+What will they do today?
+	- go over SQL
+	- continue working on project 1
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	-have set up maven, and javalin, and was able to use postman codes
+Are they running into any challenges/issues?
+	-no challenges so far
+
+
+Jaden Sierra
+
+What did they do yesterday?
+	- Reviewed maven and generics
+What will they do today?
+	- go oveer SQL
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- no updates on either
+Are they running into any challenges/issues?
+	- no challenges

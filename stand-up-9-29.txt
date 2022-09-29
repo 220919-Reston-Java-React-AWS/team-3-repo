@@ -1,0 +1,68 @@
+**Brandin Randolph**
+
+What did they do yesterday?
+	- Reviewed Week 1 notes on github.
+	- continued exercises on SQLBolt
+What will they do today?
+	- Review topics covered in week 2
+	- Review coding example regarding Project 1
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- Created database tables
+	- no update to Trello
+Are they running into any challenges/issues?
+	- no challenges regarding Project 1.
+
+**Robel Fessehai**
+
+What did they do yesterday?
+	-  Updated the schema for the project
+	- created all the user profiles
+What will they do today?
+	- make progrees on the project
+	- review topics discussed today
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	-  no update
+Are they running into any challenges/issues?
+	- no problems
+ 
+
+
+**Josiah Schmidt**
+
+What did they do yesterday?
+	- Studied the reviews
+	- dowloaded the demos
+What will they do today?
+	- go through the demos for project 1
+	- 
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- no progress
+Are they running into any challenges/issues?
+	- no challenges
+
+
+**Jaden Sierra**
+
+What did they do yesterday?
+	- created the tables and schema
+What will they do today?
+	- creating the repository and models
+	- reviewing some interview quiestions
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- no update
+Are they running into any challenges/issues?
+	- none
+
+Louis Comeaux
+
+What did they do yesterday?
+	- 
+	- 
+What will they do today?
+	- 
+	- 
+	- 
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	-  
+Are they running into any challenges/issues?
+	-

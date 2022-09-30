@@ -1,0 +1,65 @@
+Brandin Randolph
+
+What did they do yesterday?
+	- re watch the demos
+What will they do today?
+	- Project 1 progress
+	- 
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- no update to the trello board
+Are they running into any challenges/issues?
+	- no challenges
+
+Robel Fessehai
+
+What did they do yesterday?
+	-  Models are complete
+	- finished the exceptions for the java file
+What will they do today?
+	- updating the trello board
+	- finish up the repository file
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	-  
+Are they running into any challenges/issues?
+	- no issues
+
+Louus Comeaux
+
+What did they do yesterday?
+	- 
+	- 
+What will they do today?
+	- 
+	- 
+	- 
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	-  
+Are they running into any challenges/issues?
+	- 
+
+
+Josiah Schmidt
+
+What did they do yesterday?
+	- Started on the project
+	- 
+What will they do today?
+	- update the trello board
+	- rewatch videos of demos
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- no progress
+Are they running into any challenges/issues?
+	- no issues
+
+
+Jaden Sierra
+
+What did they do yesterday?
+	- completed the models for the project
+What will they do today?
+	- implement the .env file
+	- finish the repositories
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- no update to the trello board
+Are they running into any challenges/issues?
+	- no issues so far.

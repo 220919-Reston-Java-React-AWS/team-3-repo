@@ -1,0 +1,53 @@
+Brandin Randolph
+
+What did they do yesterday?
+	- Study week 2 review
+What will they do today?
+	- Project 1 progress
+	-completing repository 
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	-update trello in the following morning
+Are they running into any challenges/issues?
+	- none
+
+Robel Fessehai
+
+What did they do yesterday?
+	- Study Sql
+	- Go over Repository files
+What will they do today?
+	- Go through Controller files
+	- Study 
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- Update trello later today
+Are they running into any challenges/issues?
+	- Not yet
+
+
+Josiah Schmidt
+
+What did they do yesterday?
+	- SQL study for coding challenge
+	- Project 1 progress
+What will they do today?
+	- Study 
+	- Go through Project 1
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- Update later
+Are they running into any challenges/issues?
+	- can register but recieves error when registering again
+
+
+Jaden Sierra
+
+What did they do yesterday?
+	- Reviewed SQL information
+	- created repositorys
+	- used environment variables
+What will they do today?
+	- Talk to trainer on the repository 
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- No update to trello
+Are they running into any challenges/issues?
+	-referencing models in repository
+	-env need to be properly read

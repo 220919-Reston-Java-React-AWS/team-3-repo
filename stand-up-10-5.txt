@@ -1,50 +1,55 @@
 Brandin Randolph
 
 What did they do yesterday?
-	-
+	- Worked on project one
+	- Specifically on controller layer
+	- Review flashcards
 What will they do today?
-	- 
-	- 
+	- Continue to work on the project 
+	- Run tests
+	- Prepare presentation 
 What progress are they making on project-1 and are they updating the Trello cards with their status?
-	-
+	- will update trello
 Are they running into any challenges/issues?
-	- 
+	- Small unidentified issue 
 
 Robel Fessehai
 
 What did they do yesterday?
-	-  
+	- Worked on controller file
+	- Studies week 2 notes
 What will they do today?
-	- 
-	- 
+	- finish project one
+	
 What progress are they making on project-1 and are they updating the Trello cards with their status?
-	-  
+	- will update trello board  
 Are they running into any challenges/issues?
-	-
+	- issue with updating database
 
 
 Josiah Schmidt
 
 What did they do yesterday?
-	- 
-	- 
+	- studies week 2 review
+	- fixed yesterdays bugs
 What will they do today?
-	- 
+	- work on service and controller layer
 	- 
 What progress are they making on project-1 and are they updating the Trello cards with their status?
-	-
+	- just need to finish rebimbursment featuers
 Are they running into any challenges/issues?
-	-
+	- n/a
 
 
 Jaden Sierra
 
 What did they do yesterday?
-	- 
+	- Fixed my intelij 
+	- completed control;ler
 What will they do today?
-	- 
-	- 
+	- finish the controller layer for the reimbursement 
+	
 What progress are they making on project-1 and are they updating the Trello cards with their status?
-	-
+	- Will update the trello cards today
 Are they running into any challenges/issues?
-	- 
+	- n/a

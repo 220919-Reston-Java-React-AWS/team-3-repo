@@ -1,0 +1,48 @@
+Brandin Randolph
+
+What did they do yesterday?
+	- worked on project one exceptions, updated trello
+What will they do today?
+	- continue working on project one
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- updated trello, and project one
+Are they running into any challenges/issues?
+	- problems setting grades status
+
+Robel Fessehai
+
+What did they do yesterday?
+	-  worked on project one
+	- updated trello board
+What will they do today?
+	- finish project one
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	-  worked on approving and denying tickets, and updated trello board
+Are they running into any challenges/issues?
+	-approving and denying ticket problems
+
+
+Josiah Schmidt
+
+What did they do yesterday?
+	- worked on projesct one 
+	- updated trello
+What will they do today?
+	- finish project one
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- worked on service and controller layer for submitting tickets
+Are they running into any challenges/issues?
+	- anyone can submit tickets for anyone else
+
+
+Jaden Sierra
+
+What did they do yesterday?
+	-  reworked schemas
+	- updated trello board
+What will they do today?
+	- finish project one
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- worked on schemas, and updated trello board
+Are they running into any challenges/issues?
+	- exceptions are firing incorrectly

@@ -1,0 +1,48 @@
+Brandin Randolph
+
+What did they do yesterday?
+	- worked on project one exceptions, updated trello
+What will they do today?
+	- study week 1-3 notes
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- updated trello, and project one
+Are they running into any challenges/issues?
+	- could not implement adding ticket feature
+
+Robel Fessehai
+
+What did they do yesterday?
+	-  finished up Project 1
+	- updated trello board
+What will they do today?
+	- study notes on week 1  - 3
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	-  updated trello board
+Are they running into any challenges/issues?
+	-not right now
+
+
+Josiah Schmidt
+
+What did they do yesterday?
+	- finished up on Project 1
+	- updated trello
+What will they do today?
+	- continue to study notes for Monday QC
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- worked on service and controller layer for submitting tickets
+Are they running into any challenges/issues?
+	- anyone can submit tickets for anyone else
+
+
+Jaden Sierra
+
+What did they do yesterday?
+	-  finished up Project 1
+	- updated trello board
+What will they do today?
+	- continue studying week 1 - 3
+What progress are they making on project-1 and are they updating the Trello cards with their status?
+	- updated trello boards
+Are they running into any challenges/issues?
+	- no challenges
